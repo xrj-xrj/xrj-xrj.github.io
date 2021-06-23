@@ -40,6 +40,7 @@ body {
     width: 8rem;
     height: 8rem;
     background-image: url(./001.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
     border-radius: 50%;
     position: relative;
