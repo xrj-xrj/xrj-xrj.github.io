@@ -39,7 +39,7 @@ body {
 .headPhoto {
     width: 8rem;
     height: 8rem;
-    background: url(file:///C|/Users/HP/Desktop/zy/yuan/001.jpg) no-repeat;
+    background: url(./001.jpg) no-repeat;
     background-size: cover;
     border-radius: 50%;
     position: relative;
